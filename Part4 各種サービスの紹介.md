@@ -28,7 +28,7 @@
 ### 概要
 [ネットワークサービス概要](https://docs.microsoft.com/ja-jp/azure/networking/fundamentals/networking-overview)
 
-## 4.データベース
+## 5.データベース
 
 https://docs.microsoft.com/ja-jp/learn/modules/explore-non-relational-data-stores-azure/
 
