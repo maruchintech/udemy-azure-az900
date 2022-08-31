@@ -1,4 +1,4 @@
-# udemy-azure-fz900
+# udemy-azure-az900
 Udemy Azure AZ900講座
 
 
