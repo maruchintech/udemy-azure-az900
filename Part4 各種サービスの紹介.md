@@ -10,6 +10,10 @@
 [タグ付けのベストプラクティス](https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/azure-best-practices/resource-tagging)
 
 ### ハンズオン
+~~~
+  Heartbeat
+  | Computer == "testVM"
+~~~
 
 ## 2.コンピュート
 ### 概要
