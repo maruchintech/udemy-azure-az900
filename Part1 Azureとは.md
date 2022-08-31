@@ -1,3 +1,3 @@
 # Part1 Azureとは
 
-[GCP/AWS/Azureの比較](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?hl=ja)
+-[GCP/AWS/Azureの比較](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?hl=ja)
