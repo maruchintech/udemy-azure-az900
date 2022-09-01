@@ -18,8 +18,8 @@
   | Computer == "testVM"
 ~~~
 
--[Application Insights](https://docs.microsoft.com/ja-jp/azure/azure-monitor/app/app-insights-overview)
--[KQLのログクエリ](https://docs.microsoft.com/ja-jp/azure/azure-monitor/logs/log-query-overview)
+- [Application Insights](https://docs.microsoft.com/ja-jp/azure/azure-monitor/app/app-insights-overview)
+- [KQLのログクエリ](https://docs.microsoft.com/ja-jp/azure/azure-monitor/logs/log-query-overview)
 
 ## 2.コンピュート
 ### 概要
@@ -37,14 +37,14 @@
 - [仮想マシンを一般化する](https://docs.microsoft.com/ja-jp/azure/virtual-machines/generalize)
 
 ## 3.ストレージ
-### 概要 
+
 - [Azure Storageのドキュメント](https://docs.microsoft.com/ja-jp/azure/storage/)
 - [Blobストレージのドキュメント](https://docs.microsoft.com/ja-jp/azure/storage/blobs/)
 - [Azure Fileのドキュメント](https://docs.microsoft.com/ja-jp/azure/storage/files/)
 
 
 ## 4.ネットワーク
-### 概要
+
 - [ネットワークサービス概要](https://docs.microsoft.com/ja-jp/azure/networking/fundamentals/networking-overview)
 - [ネットワークサービスのドキュメント一覧](https://docs.microsoft.com/ja-jp/azure/?product=networking)
 
